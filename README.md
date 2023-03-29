@@ -70,7 +70,9 @@ https://user-images.githubusercontent.com/87572795/228360684-d7342cc6-eede-4396-
 
 ![Telegram](images/telega.jpg)
 
+<hr>
 
+![Telegram](images/github-contribution-grid-snake.svg)
 
 
 
